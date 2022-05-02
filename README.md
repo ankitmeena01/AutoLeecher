@@ -39,7 +39,7 @@ IF You want to Use this Bot Use in Closed Supergroup Avoid Giving Access to Untr
 Simply clone the repository and run the main file:
 
 ```sh
-git clone https://github.com/Omkar47/AutoLeecher.git
+git clone https://github.com/ankitmeena01/AutoLeecher.git
 cd AutoLeecher
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
